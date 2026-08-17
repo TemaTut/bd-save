@@ -1,0 +1,5 @@
+package simpleconnections
+
+func CheckConnections() {
+
+}
